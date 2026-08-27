@@ -75,7 +75,7 @@ function Letter({ go }) {
     <div style={{ minHeight: "100vh", background: "#fffafc", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", padding: "48px 20px", boxSizing: "border-box" }}>
       <div style={{ maxWidth: 460, width: "100%", background: "white", borderRadius: 20, padding: "40px 36px", boxShadow: "0 4px 36px rgba(200,80,130,.08)", border: "0.5px solid rgba(240,170,200,.5)" }}>
         <p style={{ ...DS, fontSize: 12, color: "#d4537e", textAlign: "center", marginBottom: 24, letterSpacing: 1.5, textTransform: "uppercase", opacity: .8 }}>
-          a reminder of how much you're loved
+          Hii Cupaaa
         </p>
         <div style={{ ...DS, fontSize: 19, color: "#444", lineHeight: 2, whiteSpace: "pre-line" }}>
           {MSG}
