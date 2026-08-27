@@ -13,11 +13,11 @@ const YT = "Ip6cw8gfHHI";
 const YT_START = 48; // ganti sesuai detik reff mulai
 // ────────────────────────────────────────────────────────────────────────────
 
-const MSG = `I'm sorry. I regret every moment I let you down.
+const MSG = `I'm sorry, baby. I just want to say sorry to you. I regret it so much — every moment I let you down.
 
-I miss you so much, more than words can hold. There's no one else, there's never been anyone else. It's only ever been you.
+There's no one else, there's never been anyone else. It's only ever been you.
 
-I just want you back in my arms. I still love you — more than anything bby ♡`;
+Please, come back to me. I miss you so much 🥺. Because I love you — I love you so much. More than anything. ♡`;
 
 const GBG = [
   "repeating-linear-gradient(0deg,transparent,transparent 24px,rgba(255,150,190,.1) 24px,rgba(255,150,190,.1) 25px)",
