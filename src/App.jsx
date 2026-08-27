@@ -13,7 +13,7 @@ const YT = "Ip6cw8gfHHI";
 const YT_START = 48; // ganti sesuai detik reff mulai
 // ────────────────────────────────────────────────────────────────────────────
 
-const MSG = `I'm sorry, baby. I just want to say sorry to you. I regret it so much — every moment I let you down.
+const MSG = `I'm sorry byy. I just want to say sorry to you. I regret it so much — every moment I let you down.
 
 There's no one else, there's never been anyone else. It's only ever been you.
 
