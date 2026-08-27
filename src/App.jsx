@@ -13,11 +13,13 @@ const YT = "Ip6cw8gfHHI";
 const YT_START = 48; // ganti sesuai detik reff mulai
 // ────────────────────────────────────────────────────────────────────────────
 
-const MSG = `I'm sorry byy. I just want to say sorry to you. I regret it so much — every moment I let you down.
+const MSG = `I'm sorry, I'm really sorry for everything that happened. I regret it so much, every moment I let you down.
 
-There's no one else, there's never been anyone else. It's only ever been you.
+I'm sorry, I'm really sorry for everything that happened. I regret it so much, every moment I let you down.
 
-Please, come back to me. I miss you so much 🥺. Because I love you — I love you so much. More than anything. ♡`;
+I've just been trying to go through, day by day, without you, apart from you and it's so heavy, nothing feels complete without you. All I want is to be sitting next to you again, talking about anything with each other. Please, byy...
+
+cause I miss you so much, and I love you — I love you more more more than anything. ♡`;
 
 const GBG = [
   "repeating-linear-gradient(0deg,transparent,transparent 24px,rgba(255,150,190,.1) 24px,rgba(255,150,190,.1) 25px)",
